@@ -70,4 +70,4 @@ This project is proprietary to **PathForge Automations**.
 
 ## 📞 Contact  
 📧 pathforge.automations@gmail.com 
-🌐 https://pathforgeautomations.netlify.app
+🌐 https://pathforgeautomate.netlify.app
